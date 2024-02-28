@@ -1,0 +1,1 @@
+Carpeta que contiene los archivos en Excel que servirán de práctica para el presente curso.
